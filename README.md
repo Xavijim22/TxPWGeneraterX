@@ -7,7 +7,7 @@ pkg install python -y
 
 pkg install python2 -y
 
-git clone https://github.com/Xavijim22/TxPWGeneraterX
+git clon https://github.com/Xavijim22/TxPWGeneraterX
 
 cd TxPWGeneraterX
 
